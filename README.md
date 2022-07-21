@@ -8,7 +8,7 @@ Pterodactyl Egg for SA-MP 0.3dl (Linux)
  
 ## Contribution 
 
-*Priyanshu* (priyanshu#1413)
+**Priyanshu** (priyanshu#1413)
 & CyberEye Hosting ™
 https://discord.gg/gAyX37nemj
 
