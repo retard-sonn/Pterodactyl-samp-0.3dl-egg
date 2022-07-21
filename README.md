@@ -1,6 +1,6 @@
 [![Discord](https://img.shields.io/discord/906557740107829260)](https://discord.gg/gAyX37nemj)
 # Pterodactyl-samp-0.3dl-egg
-Pterodactyl Egg for SA-MP 0.3dl
+Pterodactyl Egg for SA-MP 0.3dl (Linux)
 
 ## How to use 
 
